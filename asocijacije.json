@@ -1,0 +1,30 @@
+{
+    "prvoPolje": [
+        "Munja",
+        "Naizmenična struja",
+        "Magnetno polje",
+        "Struja",
+        "Elektricitet"
+    ],
+    "drugoPolje": [
+        "Beograd",
+        "Smiljan",
+        "Muzej",
+        "Srbija",
+        "Poreklo"
+    ],
+    "trecePolje": [
+        "Eksperiment",
+        "Laboratorija",
+        "Iskra",
+        "Prenos energije",
+        "Nauka"
+    ],
+    "cetvrtoPolje": [
+        "Pronalazač",
+        "Patenti",
+        "Vizija",
+        "Genije",
+        "Izumi"
+    ]
+}
